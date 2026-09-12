@@ -1,2 +1,2 @@
-# AI-Native-01
-Turn a vague idea into one yourself, then implement it in Django.
+# Learning Finetuning 
+Mastering Agentic AI: August 2026 Cohort: Week 5 Project Submissions
